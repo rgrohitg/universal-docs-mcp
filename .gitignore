@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build Output
+build/
+dist/
+
+# Crawlee & Playwright Local Storage Cache
+storage/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+*.log
